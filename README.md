@@ -14,4 +14,4 @@ Airless Tire
 
 
 
-***full 3D print settings will be put in a folder***
+***full 3D print g-code will be put in a folder***
